@@ -44,6 +44,21 @@ $ ros2 run mypkg listener
 ・・・
 ```
 
+また、以下の方法でひとつの端末で実行可能である。
+```
+$ ros2 launch mypkg talk_listen.launch.py
+[listener-2] [INFO] [1703689717.297011111] [listener]: Listen: 0
+[listener-2] [INFO] [1703689717.792163724] [listener]: Listen: 1
+[listener-2] [INFO] [1703689718.292045252] [listener]: Listen: 2
+[listener-2] [INFO] [1703689718.792893872] [listener]: Listen: 3
+[listener-2] [INFO] [1703689719.291994319] [listener]: Listen: 4
+[listener-2] [INFO] [1703689719.791933290] [listener]: Listen: 5
+[listener-2] [INFO] [1703689720.291829242] [listener]: Listen: 6
+[listener-2] [INFO] [1703689720.792092497] [listener]: Listen: 7
+[listener-2] [INFO] [1703689721.292341236] [listener]: Listen: 8
+[listener-2] [INFO] [1703689721.792121131] [listener]: Listen: 9
+・・・
+```
 ## 必要なソフトウェア
 * ROS2
 

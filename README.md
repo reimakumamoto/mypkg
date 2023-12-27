@@ -2,12 +2,24 @@
 mypkgは、2023年度未来ロボティクス学科のロボットシステム学の講義内で作成したリポジトリである。
 
 # コマンドtalker.pyとlistener.pyについて
+
 # 機能
 ## talker.py
 * 'Talker'クラス内で整数を０から順にカウントする。
 
 ## listener.py
 * talker.pyで順にカウントされた整数を購読して、値を表示する。
+
+# 実行例
+## 端末１(talker側)
+```
+$ ros2 run mypkg talker
+```
+
+## 端末２(listener側)
+```
+$ ros2 run mypkg listener
+```
 
 ## 必要なソフトウェア
 * ROS2

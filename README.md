@@ -2,6 +2,7 @@
 mypkgは、2023年度未来ロボティクス学科のロボットシステム学の講義内で作成したリポジトリである。
 
 # コマンドtalker.pyとlistener.pyについて
+[![test](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml)
 
 # 機能
 ## talker.py
@@ -40,6 +41,7 @@ $ ros2 run mypkg listener
 [INFO] [1703688427.728159466] [listener]: Listen: 17
 [INFO] [1703688428.227893059] [listener]: Listen: 18
 [INFO] [1703688428.728254450] [listener]: Listen: 19
+・・・
 ```
 
 ## 必要なソフトウェア

@@ -14,11 +14,32 @@ mypkgは、2023年度未来ロボティクス学科のロボットシステム�
 ## 端末１(talker側)
 ```
 $ ros2 run mypkg talker
+何も表示されない。
 ```
 
 ## 端末２(listener側)
 ```
 $ ros2 run mypkg listener
+[INFO] [1703688419.255160553] [listener]: Listen: 0
+[INFO] [1703688419.727265156] [listener]: Listen: 1
+[INFO] [1703688420.228365334] [listener]: Listen: 2
+[INFO] [1703688420.727714189] [listener]: Listen: 3
+[INFO] [1703688421.227552609] [listener]: Listen: 4
+[INFO] [1703688421.727729059] [listener]: Listen: 5
+[INFO] [1703688422.228736313] [listener]: Listen: 6
+[INFO] [1703688422.728262223] [listener]: Listen: 7
+[INFO] [1703688423.228273847] [listener]: Listen: 8
+[INFO] [1703688423.728437164] [listener]: Listen: 9
+[INFO] [1703688424.227838912] [listener]: Listen: 10
+[INFO] [1703688424.727726084] [listener]: Listen: 11
+[INFO] [1703688425.228728166] [listener]: Listen: 12
+[INFO] [1703688425.728672154] [listener]: Listen: 13
+[INFO] [1703688426.228079505] [listener]: Listen: 14
+[INFO] [1703688426.728268012] [listener]: Listen: 15
+[INFO] [1703688427.227865667] [listener]: Listen: 16
+[INFO] [1703688427.728159466] [listener]: Listen: 17
+[INFO] [1703688428.227893059] [listener]: Listen: 18
+[INFO] [1703688428.728254450] [listener]: Listen: 19
 ```
 
 ## 必要なソフトウェア

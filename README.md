@@ -31,16 +31,6 @@ $ ros2 run mypkg listener
 [INFO] [1703688422.728262223] [listener]: Listen: 7
 [INFO] [1703688423.228273847] [listener]: Listen: 8
 [INFO] [1703688423.728437164] [listener]: Listen: 9
-[INFO] [1703688424.227838912] [listener]: Listen: 10
-[INFO] [1703688424.727726084] [listener]: Listen: 11
-[INFO] [1703688425.228728166] [listener]: Listen: 12
-[INFO] [1703688425.728672154] [listener]: Listen: 13
-[INFO] [1703688426.228079505] [listener]: Listen: 14
-[INFO] [1703688426.728268012] [listener]: Listen: 15
-[INFO] [1703688427.227865667] [listener]: Listen: 16
-[INFO] [1703688427.728159466] [listener]: Listen: 17
-[INFO] [1703688428.227893059] [listener]: Listen: 18
-[INFO] [1703688428.728254450] [listener]: Listen: 19
 ・・・
 ```
 

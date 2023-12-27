@@ -4,6 +4,9 @@ mypkgは、2023年度未来ロボティクス学科のロボットシステム�
 # コマンドtalker.pyとlistener.pyについて
 [![test](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml)
 
+# トピックについて
+トピックは、ROSで異なるノード間でデータをやり取りするための仕組みである。今回使用されているトピックは'countup'である。これは整数型のメッセージをやり取りするためのトピックである。
+
 # 機能
 ## talker.py
 * 'Talker'クラス内で整数を０から順にカウントする。

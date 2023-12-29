@@ -59,6 +59,10 @@ $ ros2 launch mypkg talk_listen.launch.py
 ## テスト環境
 * Ubuntu 20.04
 
+##テスト環境
+* 2023年度千葉工業大学未来ロボティクス学科のロボットシステム学の講義で使用した上田隆一先生のコンテナを活用しています。
+* [上田 隆一先生のコンテナ](https://hub.docker.com/layers/ryuichiueda/ubuntu22.04-ros2/latest/images/sha256-0e1773bc6f12b57172c8818aac36aeb97ca13269028028d49ad5f6f8cc0d6204?context=explore)
+
 # ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 * このパッケージのコードは、下記のスライド (CC_BY_SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自作の著作としたものです。

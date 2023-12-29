@@ -59,7 +59,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 ## テスト環境
 * Ubuntu 20.04
 
-##テスト環境
+##テスト内容
 * 2023年度千葉工業大学未来ロボティクス学科のロボットシステム学の講義で使用した上田隆一先生のコンテナを活用しています。
 * [上田 隆一先生のコンテナ](https://hub.docker.com/layers/ryuichiueda/ubuntu22.04-ros2/latest/images/sha256-0e1773bc6f12b57172c8818aac36aeb97ca13269028028d49ad5f6f8cc0d6204?context=explore)
 

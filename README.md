@@ -54,7 +54,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 ・・・
 ```
 ## 必要なソフトウェア
-* ROS2
+* ROS 2
 * python
 
 ## テスト環境

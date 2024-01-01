@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Reima Kumamoto
+# SPDX-Licence-Identifier: BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions

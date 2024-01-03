@@ -1,5 +1,6 @@
 # mypkg
 mypkgは、2023年度千葉工業大学未来ロボティクス学科のロボットシステム学の講義内で作成したリポジトリである。
+また、これはROS 2のパッケージである。
 
 # コマンドtalker.pyとlistener.pyについて
 [![test](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/reimakumamoto/mypkg/actions/workflows/test.yml)
